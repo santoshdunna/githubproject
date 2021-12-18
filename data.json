@@ -1,0 +1,22 @@
+{
+   "cards":[{
+       "img":"mobile1.png",
+       "name":"redmi",
+       "rate":"15000",
+       "offer":"12000",
+       "button":"view"
+   },{
+        "img":"mobile2.png",
+        "name":"realmi",
+        "rate":"17000",
+        "offer":"13000",
+        "button":"view"
+    },{
+            "img":"mobile3.png",
+            "name":"vivo",
+            "rate":"15000",
+            "offer":"12000",
+            "button":"view"
+        }
+        ]
+}
